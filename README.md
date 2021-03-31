@@ -1,4 +1,4 @@
-# angular-editor-fabric-js
+# fabricjs-editor
 
 > Drag-and-drop editor based on Fabricjs for Angular with multiple options
 
@@ -37,7 +37,7 @@
 ## Installing the library in your project
 
 ```bash
-npm i angular-editor-fabric-js
+npm i fabricjs-editor
 ```
 
 # Development
@@ -45,8 +45,8 @@ npm i angular-editor-fabric-js
 ## Installing the project
 
 ```bash
-git clone https://github.com/kevoj/angular-editor-fabric-js.git
-cd angular-editor-fabric-js
+git clone https://github.com/akhilh2o/fabricjs-editor.git
+cd fabricjs-editor
 npm install
 ```
 ## Start
@@ -67,4 +67,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 Before running the tests make sure you are serving the app via `ng serve`.
 
 ## License
-[MIT ©](https://github.com/kevoj/angular-editor-fabric-js/blob/master/LICENSE)
+[MIT ©](https://github.com/akhilh2o/fabricjs-editor/blob/master/LICENSE)
