@@ -3,9 +3,9 @@
 > Drag-and-drop editor based on Fabricjs for Angular with multiple options
 
 ### Example
-![Imgur](https://i.imgur.com/sQsL8G4.png)
+![image](https://user-images.githubusercontent.com/34485983/141048647-baacc2c1-20ad-4976-b43f-4839f7c94125.png)
 ### Output
-![Imgur](https://i.imgur.com/hgTEb20.png)
+![image](https://user-images.githubusercontent.com/34485983/141048683-78c7cdd1-0e28-4170-a8ff-27aa33a8cdf6.png)
 
 ### Features
 * Export to image
